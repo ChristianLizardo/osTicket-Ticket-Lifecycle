@@ -1,1 +1,1 @@
-# osTicket-Ticket-Lifecycle
+<h1 align="center"> OsTicket Lifecycle </h1>
