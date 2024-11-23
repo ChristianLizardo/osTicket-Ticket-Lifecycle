@@ -1,3 +1,5 @@
+![IMG_1441](https://github.com/user-attachments/assets/05d6fb8c-d31b-48e9-baaa-8488adb7e87c)
+
 
 <h1 align="center"> OsTicket Lifecycle </h1>
 
