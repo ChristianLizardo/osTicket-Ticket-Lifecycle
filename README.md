@@ -28,35 +28,37 @@ This tutorial explores the lifecycle of a ticket, from submission to resolution,
 
 User Ken creates a ticket 
 
-Insert Image 
+![IMG_1443](https://github.com/user-attachments/assets/17fe0f8d-aa4e-4fc8-963f-e514fcf5be5d)
 
 <h1 align="center"> Ticket Assignment  </h1>
 
 Support agent John Doe logs in (please disregard the "access denied" message in the screenshot, as it was caused by an incorrect password entry)
 
-Insert Image
+![IMG_1444](https://github.com/user-attachments/assets/1c3eddf9-7887-4fbc-8222-a8838b6835d7)
+
 
 <h1 align="center"> Collaboration </h1>
 
 Agent John identifies this as a Sev-A emergency ticket and proceeds to reassign it to a System Administrator. He ensures to leave an appropriate message for context.
 
-Insert Image 
+![IMG_1445](https://github.com/user-attachments/assets/b1709fbd-5b7c-4455-bb0a-65e0534c0cb5)
+
 
 <h1 align="center"> Issue Investigation and Troubleshooting </h1>
 
 System Administrator agent Jane Doe logs in:
 
-Insert Image 
+![IMG_1446](https://github.com/user-attachments/assets/d3fa136b-0ba2-4b4a-a2dc-bf15389b4ccf)
 
 Agent Jane addresses the issue and provides updates to Agent John. She ensures the status of the ticket is updated from "Open" to "Resolved.
 
-Insert Image 
+![IMG_1447](https://github.com/user-attachments/assets/13561ffd-8a3b-4e00-ba56-b06c2dc604ca)
 
 <h1 align="center"> Resolution and Closure </h1>
 
 Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
 
-Insert Image 
+![IMG_1448](https://github.com/user-attachments/assets/ce82d607-3a67-4dde-84aa-3eb261ff4f07)
 
 <h1 align="center"> Conclusion </h1>
 
